@@ -5,6 +5,7 @@
 
 # 目录
 - [功能](#功能)
+- [代码目录结构](#代码目录结构)
 - [项目开发流程](#项目开发流程)
 - [软件设计思想](#软件设计思想)
 
@@ -23,6 +24,9 @@
 - ![image](https://github.com/CoolDownnll/projects/blob/master/ImgsFolderForReadMe/6.backup.PNG)
 - 恢复
 - ![image](https://github.com/CoolDownnll/projects/blob/master/ImgsFolderForReadMe/7.recover.PNG)
+
+## 代码目录结构
+
 
 ## 项目开发流程
 - 表结构设计：
