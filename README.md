@@ -11,6 +11,8 @@
 - [总结](#总结)
 
 ## 功能
+- 消费一览：
+- ![image](https://github.com/CoolDownnll/projects/blob/master/ImgsFolderForReadMe/1.BootStrap.PNG)
 - 
 ## 项目开发流程
 ## 数据库表设计
