@@ -26,7 +26,7 @@
 - ![image](https://github.com/CoolDownnll/projects/blob/master/ImgsFolderForReadMe/7.recover.PNG)
 
 ## 代码目录结构
-
+- ![image](https://github.com/CoolDownnll/projects/blob/master/ImgsFolderForReadMe/codeStructure.PNG)
 
 ## 项目开发流程
 - 表结构设计：
